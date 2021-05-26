@@ -19,13 +19,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [All](https://github.com/kaviya-admin/);
+- 👨🏽‍💻 I’m currently working on [FilmsZilla Network](https://filmszilla.com/);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 👯 I’m looking to collaborate on [TWE](https://t.me/Tech_Wizard_Ent) 🤝;
+- 👯 I’m looking to collaborate on [FilmsZilla](https://filmszilla.com) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: kaveesharajapaksha4@gmail.com;
+- 📫 How to reach me: info@kaviya.me;
 
 **Languages and Tools:** 
 
@@ -34,7 +34,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/kaviya-admin/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=kaviya-admin&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Kaveesha's github stats" src="https://github-readme-stats.vercel.app/api?username=kaviya-admin&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
