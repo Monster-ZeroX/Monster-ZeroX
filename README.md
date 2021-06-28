@@ -33,8 +33,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/kaviya-admin/handle-path-oz">
-    <img width="55%" align="right" alt="Kaveesha's github stats" src="https://github-readme-stats.vercel.app/api?username=Kaveesha-Induwara&show_icons=true&hide_border=true" />
+  <a href="https://github.com/Monster-ZeroX/handle-path-oz">
+    <img width="55%" align="right" alt="☠️👽Mⷨoͦns͛ᴛⷮeͤrͬ Zeͤrͬoͦ👽☠️'s github stats" src="https://github-readme-stats.vercel.app/api?username=Monster-ZeroX&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -63,9 +63,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/kaveesha-admin/kaveesha-admin.svg" />
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/Monster-ZeroX/Monster-ZeroX.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kaviya-admin" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Monster-ZeroX" />
 </p>
 
 ## Join My Group
@@ -75,7 +75,7 @@ I created these images, feel free to use them.
 -->
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-admin)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Monster-ZeroX)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
