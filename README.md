@@ -1,11 +1,11 @@
 <!-- Your title -->
-## Hi, I'm Kaveesha Induwara, a Developer from Sri Lanka 🇱🇰.
+## Hi, I'm ☠️👽Mⷨoͦns͛ᴛⷮeͤrͬ Zeͤrͬoͦ👽☠️, a Developer from Sri Lanka 🇱🇰.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaviya-admin)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Monster-ZeroX)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaveesha-induwara-389279202/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__kaveesha_induwara__/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Kavi_Ya:kaveesharakapaksha4@gmail.com)
@@ -95,7 +95,7 @@ Reach out to me 👓
 
 |  <a href="https://t.me/Kaveesha_Induwara/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Kaveesha Induwara](https://t.me/Kaveesha_Induwara/)**                                                                                |
+|       **[Kaveesha Induwara](https://t.me/Monster_ZeroX/)**                                                                                |
 |<a href="https://twitter.com/ImKaveesha"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/kaviya-admin"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Kaveesha.Induwara.03.17"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kaveesha-induwara-389279202//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 📊 **Weekly development breakdown**
