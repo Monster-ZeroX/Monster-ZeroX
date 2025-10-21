@@ -9,19 +9,19 @@
   <a href="https://github.com/Monster-ZeroX">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/kaveesha-induwara-389279202/">
+  <a href="https://www.linkedin.com/in/ImKaveesha/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://t.me/Monster_ZeroX">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/__kaveesha_induwara__/">
+  <a href="https://www.instagram.com/kaveeshainduwara.lk/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://twitter.com/ImKaveesha">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="mailto:kaveesharakapaksha4@gmail.com">
+  <a href="mailto:hello@kaveeshainduwara.lk">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -36,7 +36,7 @@
 -   🤔 I'm looking for help with **Design Patterns**
 -   💬 Ask me about anything, I'm happy to help!
 -   ⚡ Fun Fact: I'm still a student.
--   📫 How to reach me: **info@kaviya.me**
+-   📫 How to reach me: **hello@kaveeshainduwara.lk**
 
 ---
 
