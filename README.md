@@ -1,108 +1,79 @@
-<!-- Your title -->
-## Hi, I'm ☠️👽Mⷨoͦns͛ᴛⷮeͤrͬ Zeͤrͬoͦ👽☠️, a Developer from Sri Lanka 🇱🇰.
+<h1 align="center">Hi, I'm ☠️👽Mⷨoͦns͛ᴛⷮeͤrͬ Zeͤrͬoͦ👽☠️</h1>
+<h3 align="center">A Developer from Sri Lanka 🇱🇰</h3>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Monster-ZeroX)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaveesha-induwara-389279202/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__kaveesha_induwara__/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Kavi_Ya:kaveesharakapaksha4@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:kaveesharajapaksha4@gmail.com)
-
-&nbsp;
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on [FilmsZilla Network](https://filmszilla.com/);
-- 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 👯 I’m looking to collaborate on [FilmsZilla](https://filmszilla.com) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: info@kaviya.me;
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/Monster-ZeroX/handle-path-oz">
-    <img width="55%" align="right" alt="☠️👽Mⷨoͦns͛ᴛⷮeͤrͬ Zeͤrͬoͦ👽☠️'s github stats" src="https://github-readme-stats.vercel.app/api?username=Monster-ZeroX&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 <p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/Monster-ZeroX/Monster-ZeroX.svg" />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Developer GIF" width="60%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Monster-ZeroX">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Monster-ZeroX" />
+  <a href="https://www.linkedin.com/in/kaveesha-induwara-389279202/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://t.me/Monster_ZeroX">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/__kaveesha_induwara__/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/ImKaveesha">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:kaveesharakapaksha4@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
-## Join My Group
-<a href="https://t.me/FZBOTS" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-# MOST USED LANGUAGES
-
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Monster-ZeroX)
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-# Follow me on
-
-<p align="left">
-<a href="https://t.me/Monster_ZeroX" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/kaveeshainduwara.lk" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/ImKaveesha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/ImKaveesha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
 ---
 
+## 🚀 About Me
 
-Reach out to me 👓
+-   👨🏽‍💻 I'm currently working on **[FilmsZilla Network](https://filmszilla.com/)**
+-   🌱 I'm currently learning **Python** and **Linux (CircleCI)**
+-   🤝 I'm looking to collaborate on **[FilmsZilla](https://filmszilla.com)**
+-   🤔 I'm looking for help with **Design Patterns**
+-   💬 Ask me about anything, I'm happy to help!
+-   ⚡ Fun Fact: I'm still a student.
+-   📫 How to reach me: **info@kaviya.me**
 
-|  <a href="https://t.me/Monster_ZeroX/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[☠️👽Mⷨoͦns͛ᴛⷮeͤrͬ Zeͤrͬoͦ👽☠️](https://t.me/Monster_ZeroX/)**                                                                                |
-|<a href="https://twitter.com/ImKaveesha"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/Monster-ZeroX"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ImKaveesha"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ImKaveesha//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+---
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-CA1736?style=for-the-badge&logo=yaml&logoColor=white">
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monster-ZeroX&show_icons=true&hide_border=true&theme=tokyonight" alt="Monster-ZeroX's GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monster-ZeroX&layout=compact&hide_border=true&theme=tokyonight" alt="Monster-ZeroX's Top Languages" />
+</p>
+
+---
+
+## 🕗 Weekly Development Breakdown
+
 ```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
-
+Python 4 hrs 32 mins █████████░░░░░░░░░░░░░░░░ 35.69
+HTML/CSS 2 hrs 50 mins █████░░░░░░░░░░░░░░░░░░░░ 22.32
+Javascript 1 hr 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.17
+Dart 1 hr 5 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.61
